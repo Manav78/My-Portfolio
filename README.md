@@ -1,6 +1,7 @@
 # Manav Patil – Java Full Stack Developer Portfolio
 
-![Portfolio Screenshot](manav2.png)
+<img width="1361" height="649" alt="image" src="https://github.com/user-attachments/assets/2bccff28-c2c1-4375-84af-23397a5e488d" />
+
 
 
 ## Table of Contents
